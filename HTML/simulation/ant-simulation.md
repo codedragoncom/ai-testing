@@ -56,4 +56,4 @@ Implementation guidelines:
 - Do not wrap the code in markdown code blocks.
 - The file must be ready to save as .html and open directly.
 
-Now write the full single-file HTML ant colony simulator.ß
+Now write the full single-file HTML ant colony simulator.
