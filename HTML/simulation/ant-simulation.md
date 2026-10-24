@@ -9,7 +9,7 @@ You are an expert frontend developer. Write a complete, self-contained single-fi
 
 Requirements (must follow exactly):
 - One single HTML file only. No external files, no CDN, no frameworks, no libraries.
-- Use a <canvas> for rendering.
+- Use a `<canvas>` for rendering.
 - Pure vanilla JavaScript inside the HTML file.
 - The page must work immediately when opened in a browser.
 
@@ -50,11 +50,10 @@ Implementation guidelines:
 - Make sure ants can successfully find food and return home so trails form over time.
 - Include a simple info text showing current status (running/paused, ant count, etc.).
 
-Output rules:
 - Output ONLY the complete HTML document.
-- Start with <!DOCTYPE html> and end with </html>.
+- Start with `<!DOCTYPE html>` and end with `</html>`.
 - Do not add explanations before or after the code.
 - Do not wrap the code in markdown code blocks.
 - The file must be ready to save as .html and open directly.
 
-Now write the full single-file HTML ant colony simulator.
+Now write the full single-file HTML ant colony simulator.ß
